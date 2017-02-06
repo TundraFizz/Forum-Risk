@@ -1,0 +1,66 @@
+===== Setup =====
+Each player picks the following:
+1. Color
+2. Faction Name
+3. Two adjacent states to own
+ - You may not begin the game with an adjacent state to another player
+
+===== Play =====
+Each turn you must do two things:
+1. [roll]
+2. Choose one action:
+ - Expand
+ - Attack
+ - Fortify
+
+===== Expand =====
+Explanation:
+
+0-5:   Claim 1 state
+6-9:   Claim 2 states
+Dubs:  Claim 3 states
+Trips: Claim 5 states
+
+===== Attack =====
+Explanation:
+
+0-9:
+Dubs:  Ignore fortification bonuses
+Trips: Ignore fortification bonuses + ?????
+
+?????:
+
+===== Fortify =====
+Explanation:
+
+0-9:
+Dubs:
+Trips: All of your states are now fortified
+
+===== Conflict =====
+If there are any conflicts between players, the winner is determined by following:
+ - Trips
+ - Dubs
+ - Highest Number
+Example: 111 vs 988, 111 wins
+Example: 277 vs 355, 355 wins
+
+===== 1000 =====
+If you roll 1000, you have found a nuke and can instantly destroy any faction you want.
+Make a second post on this turn (without a roll) saying who you will destroy.
+This is the only instance in which having two posts in one turn is permitted.
+You may still take your standard action as if you rolled trips.
+
+===== New Players =====
+New players may join in at any time.
+ - They immediately claim an amount of states equal to the average states owned by all other players (rounded down)
+ - They are not subject to the rule where they can't begin in states adjacent to other players
+ - All of their states must be adjacent to each other
+ - They may begin with a reduced amount of states
+
+
+
+Yukon            | Northwest Territories  | Nunavut
+British Columbia | Alberta | Saskatchewan | Manitoba | Ontario | Quebec | Labrador | Newfoundland
+                                                                       Prince Edward Island
+                                                                    New Brunswick | Nova Scotia
